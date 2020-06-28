@@ -43,7 +43,7 @@ Classification is useful when visualizing different token types and learning abo
 
 ## Common Terminology
 
-The TTF is a composition framework that breaks tokens down into basic reusable parts - base token types, properties and behaviors - which are then placed into a category by type and can support grouping. Each decomposed part is documented in a taxonomy [artifact](taxonomy-file-format.md). Composing these token parts together generates another taxonomy artifact defining a complete token by referencing its component artifacts.
+The TTF is a composition framework that breaks tokens down into basic reusable parts - base token types, properties and behaviors - which are then placed into a category by type and can support grouping. Each decomposed part is documented in a taxonomy [artifact](taxonomy-artifact-format.md). Composing these token parts together generates another taxonomy artifact defining a complete token by referencing its component artifacts.
 
 The taxonomy uses these terms for all tokens:
 
